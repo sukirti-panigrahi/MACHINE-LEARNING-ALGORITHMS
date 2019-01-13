@@ -4,10 +4,12 @@ import numpy as np
 import theano
 import theano.tensor as T
 import matplotlib.pyplot as plt
-
 from sklearn.utils import shuffle
 from util import relu, error_rate, getKaggleMNIST, init_weights
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
 
 def T_shared_zeros_like32(p):
     # p is a Theano shared itself
