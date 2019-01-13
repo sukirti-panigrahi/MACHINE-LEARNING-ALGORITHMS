@@ -55,7 +55,7 @@ Regularized L1 Regression or Lasso [Regularized L1 Algorithm](https://github.com
     to sparse L1 norm. In Sparse solution majority of the input features
     have zero weights and very few features have non zero weights.
     
-Regularized L2 Regression or Lasso [Regularized L2 Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/SUPERVISED%20LEARNING/L2_REGRESSION_REGULARIZED.py)
+Regularized L2 Regression or Ridge [Regularized L2 Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/SUPERVISED%20LEARNING/L2_REGRESSION_REGULARIZED.py)
 
     In L2 regularization, regularization term is the sum of 
     square of all feature weights.
