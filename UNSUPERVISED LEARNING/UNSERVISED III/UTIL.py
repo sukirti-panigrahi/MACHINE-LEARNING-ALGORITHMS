@@ -9,6 +9,9 @@ from scipy.misc import imread, imsave, imresize
 from glob import glob
 from tqdm import tqdm
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
 
 def get_mnist(limit=None):
   if not os.path.exists('../large_files'):
