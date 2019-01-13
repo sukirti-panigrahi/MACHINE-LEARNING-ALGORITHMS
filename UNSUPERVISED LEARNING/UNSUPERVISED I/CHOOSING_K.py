@@ -5,6 +5,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from KMEANS import plot_k_means, get_simple_data, cost
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
 
 def main():
   X = get_simple_data()
