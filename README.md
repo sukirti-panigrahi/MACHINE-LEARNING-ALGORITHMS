@@ -62,4 +62,12 @@ Regularized L2 Regression or Ridge [Regularized L2 Algorithm](https://github.com
     L2 regularization forces the weights to be small but does
     not make them zero and does non sparse solution.
     
+Adaboost [Adaboost Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/SUPERVISED%20LEARNING/ADABOOST.py)
+
+    The output of the other learning algorithms ('weak learners') 
+    is combined into a weighted sum that represents the final output 
+    of the boosted classifier. AdaBoost is adaptive(Hence the name Adaptive Boosting) 
+    in the sense that subsequent weak learners are tweaked in favor of those instances 
+    misclassified by previous classifiers.
+    
     
