@@ -8,6 +8,9 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 from datetime import datetime
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
 
 # some constants
 LEARNING_RATE = 0.0002
