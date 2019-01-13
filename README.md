@@ -97,4 +97,26 @@ GMM [GMM Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/b
     Gaussian mixture models are very useful when it comes to modeling data, 
     especially data which comes from several groups
     
+
+RBM [RBM Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20II/RBM.py)
+
+    A restricted Boltzmann machine (RBM) is a generative 
+    stochastic artificial neural network that can learn a
+    probability distribution over its set of inputs.
+
+PCA IMPLEMENTATION [PCA IMPLEMENTATION](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20II/PCA_IMPL.py)
+
+TSNE IMPLEMENTATION [TSNE IMPLEMENTATION](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20II/TSNE_BOOK.py)
+
+TSNE IMPLEMENTATION FOR MNIST [TSNE IMPLEMENTATION MNIST](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20II/TSNE_MNIST.py)
+
+Autoencoder [Autoencoder Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20II/autoencoder.py)
+
+    An autoencoder is a type of artificial neural network used
+    to learn efficient data codings in an unsupervised manner.
+    The aim of an autoencoder is to learn a representation (encoding)
+    for a set of data, typically for dimensionality reduction. Along
+    with the reduction side, a reconstructing side is learnt, where the 
+    autoencoder tries to generate from the reduced encoding a representation as
+    close as possible to its original input, hence its name.
     
