@@ -6,6 +6,9 @@ import theano
 import theano.tensor as T
 import matplotlib.pyplot as plt
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
 
 class Autoencoder:
   def __init__(self, D, M):
