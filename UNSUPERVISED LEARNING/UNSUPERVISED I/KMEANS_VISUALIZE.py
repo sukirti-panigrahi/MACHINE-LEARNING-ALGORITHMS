@@ -1,15 +1,12 @@
-# https://deeplearningcourses.com/c/cluster-analysis-unsupervised-machine-learning-python
-# https://www.udemy.com/cluster-analysis-unsupervised-machine-learning-python
 from __future__ import print_function, division
 from future.utils import iteritems
 from builtins import range, input
-# Note: you may need to update your version of future
-# sudo pip install -U future
-
-
 import numpy as np
 import matplotlib.pyplot as plt
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
 
 def d(u, v):
     diff = u - v
