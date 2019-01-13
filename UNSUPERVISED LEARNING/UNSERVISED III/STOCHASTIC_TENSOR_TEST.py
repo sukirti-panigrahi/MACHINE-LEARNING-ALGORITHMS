@@ -4,6 +4,10 @@ import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
+
 st = tf.contrib.bayesflow.stochastic_tensor
 Normal = tf.contrib.distributions.Normal
 
