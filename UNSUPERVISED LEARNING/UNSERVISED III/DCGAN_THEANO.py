@@ -11,6 +11,9 @@ from datetime import datetime
 from theano.tensor.nnet.bn import batch_normalization_train, batch_normalization_test
 from theano.tensor.nnet import conv2d
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
 
 # some constants
 LEARNING_RATE = 0.0002
