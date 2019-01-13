@@ -1,16 +1,14 @@
-# https://deeplearningcourses.com/c/cluster-analysis-unsupervised-machine-learning-python
-# https://www.udemy.com/cluster-analysis-unsupervised-machine-learning-python
 from __future__ import print_function, division
 from builtins import range
-# Note: you may need to update your version of future
-# sudo pip install -U future
-
 import random
 import numpy as np
 import scipy.spatial.distance as ssd
 import matplotlib.pyplot as plt
 from scipy.cluster.hierarchy import dendrogram, linkage
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
 
 # our genetic code
 code = ['A', 'T', 'C', 'G']
