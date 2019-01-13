@@ -6,6 +6,10 @@ import matplotlib.pyplot as plt
 from vae_tf import VariationalAutoencoder
 from vae_theano import VariationalAutoencoder
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
+
 if __name__ == '__main__':
   X, Y = util.get_mnist()
   # convert X to binary variable
