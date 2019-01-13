@@ -106,9 +106,15 @@ RBM [RBM Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/b
 
 PCA IMPLEMENTATION [PCA IMPLEMENTATION](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20II/PCA_IMPL.py)
 
+        Implementation of sklearn PCA using kaggle MNIST dataset
+        
 TSNE IMPLEMENTATION [TSNE IMPLEMENTATION](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20II/TSNE_BOOK.py)
 
+        Implementation of sklearn TSNE using characters from a book
+
 TSNE IMPLEMENTATION FOR MNIST [TSNE IMPLEMENTATION MNIST](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20II/TSNE_MNIST.py)
+
+        Implementation of sklearn TSNE using MNIST dataset
 
 Autoencoder [Autoencoder Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20II/autoencoder.py)
 
