@@ -5,9 +5,11 @@ import numpy as np
 import theano
 import theano.tensor as T
 import matplotlib.pyplot as plt
-
 from theano.tensor.shared_randomstreams import RandomStreams
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
 
 class DenseLayer(object):
   def __init__(self, M1, M2, f=T.nnet.relu):
