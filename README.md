@@ -71,3 +71,30 @@ Adaboost [Adaboost Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-AL
     misclassified by previous classifiers.
     
     
+## Unsupervised Learning
+
+KMEANS [KMEANS Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20I/KMEANS.py)
+
+    k-means clustering aims to partition n observations 
+    into k clusters in which each observation belongs to the
+    cluster with the nearest mean, serving as a prototype of the cluster.
+    
+HIERARCHICAL CLUSTERING [HIERARCHICAL clusetring Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20I/HCLUSTER.py)
+
+    k-means clustering aims to partition n observations 
+    into k clusters in which each observation belongs to the
+    cluster with the nearest mean, serving as a prototype of the cluster.
+    
+    
+GMM [GMM Algorithm](https://github.com/kennedyCzar/MACHINE-LEARNING-ALGORITHMS/blob/master/UNSUPERVISED%20LEARNING/UNSUPERVISED%20I/GMM.py)
+
+    A Gaussian mixture model (GMM) is a category of 
+    probabilistic model which states that all generated data points are
+    derived from a mixture of a finite Gaussian distributions that has no
+    known parameters. The parameters for Gaussian mixture models are
+    derived either from maximum a posteriori estimation or an iterative
+    expectation-maximization algorithm from a prior model which is well trained.
+    Gaussian mixture models are very useful when it comes to modeling data, 
+    especially data which comes from several groups
+    
+    
