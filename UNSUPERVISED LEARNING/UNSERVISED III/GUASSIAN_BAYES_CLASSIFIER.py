@@ -5,6 +5,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import multivariate_normal as mvn
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
 
 class BayesClassifier:
   def fit(self, X, Y):
