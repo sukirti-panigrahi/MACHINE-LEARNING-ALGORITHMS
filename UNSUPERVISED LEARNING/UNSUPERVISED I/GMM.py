@@ -5,6 +5,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import multivariate_normal
 
+__author__ = "kennedy Czar"
+__email__ = "kennedyczar@gmail.com"
+__version__ = '1.0'
 
 def gmm(X, K, max_iter=20, smoothing=1e-2):
     N, D = X.shape
